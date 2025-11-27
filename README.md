@@ -151,7 +151,7 @@ class MySkills {
     ];
     
     public function getMotivation() {
-        return "Transformar café em código desde [ANO]! ☕️💻";
+        return "Transformar café em código desde 2021! ☕️💻";
     }
 }
 ?>
